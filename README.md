@@ -6,7 +6,7 @@ Me chamo Heron Rangel Agostinho, tenho 28 anos e sou natural do Rio Grande do Su
 ---
 
 ### 📁 Veja meu portifólio
-<a href="https://heronrangel.github.io/portifolio" target="_blank">Acesse aqui</a>
+<a href="https://heronrangel.github.io/portifolio" target="_blank" rel="noopener noreferrer">Acesse aqui</a>
 
 ### 🤖 Linguagens e Tecnologias
 
