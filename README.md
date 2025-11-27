@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Heron Rangel Agostinho e tenho 28 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade LaSalle e atuo na área de programação há 3 anos. Minha carreira é um portfólio de desafios superados, com projetos como desenvolvimento de apps para gestão e integrações com e-commerce e meios de pagamento.
+Olá! Me chamo Heron Rangel Agostinho e tenho 28 anos. Atualmente, curso Análise e Desenvolvimento de Sistemas na Universidade LaSalle e atuo na área de programação há 3 anos. Minha carreira é um portfólio de desafios superados, com projetos como desenvolvimento de apps para gestão e integrações com e-commerce e meios de pagamento.
 ---
 
 ### 📁 Veja meu portifólio
