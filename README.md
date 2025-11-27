@@ -6,7 +6,7 @@ Olá! Me chamo Heron Rangel Agostinho e tenho 28 anos. Atualmente, curso Anális
 ---
 
 ### 📁 Veja meu portifólio
-<a href="https://heronrangel.github.io/portifolio" target="_blank" rel="noopener noreferrer">Acesse aqui</a>
+<a href="https://heronrangel.github.io/portfolio" target="_blank" rel="noopener noreferrer">Acesse aqui</a>
 
 ### 🤖 Linguagens e Tecnologias
 
